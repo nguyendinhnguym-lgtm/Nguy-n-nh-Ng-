@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Nguyễn Đình Ngữ - Trường PTDTBT Tiểu học Mậu Long - ĐT: 03460404620346040462</p>
+    <p>Tác giả: Nguyễn Đình Ngữ - Trường PTDTBT Tiểu học Mậu Long - ĐT: 0346040462</p>
 </div>
 """, unsafe_allow_html=True)
 
